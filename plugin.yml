@@ -1,0 +1,16 @@
+name: LFFSystem
+main: keo\Main
+version: 1.0.0
+api: [5.0.0]
+author: Keole
+
+commands:
+  lff:
+    description: buscar una facción.
+    usage: /lff
+    permission: lff.command
+
+permissions:
+  lff.command:
+    description: Permite usar el comando /lff
+    default: true
