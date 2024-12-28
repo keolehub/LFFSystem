@@ -7,7 +7,7 @@ Este plugin permite a los demas usuarios pedir que los recluten eligiendo sus cl
 # 🗨Comandos
 | Comando          | Descripción                                            |
 |------------------|--------------------------------------------------------|
-| `/redeem`        | Abrir menu de recutamiento                             |
+| `/lff`        | Abrir menu de recutamiento                             |
 
 </br>
 
