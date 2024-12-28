@@ -1,8 +1,9 @@
 name: LFFSystem
 main: keo\Main
-version: 1.0.0
+version: 1.3.0
 api: [5.0.0]
 author: Keole
+website: https://github.com/keolehub
 
 commands:
   lff:
